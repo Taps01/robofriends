@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Glitch inside';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Glitch inside'), url('Glitch inside.otf' ) format('otf');
+}
+
+h1 {
+    font-family: 'Glitch inside';
+    font-weight: 200;
+    color: rgb(242, 242, 247);
+    text-shadow: 20em;
+}
